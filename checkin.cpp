@@ -252,10 +252,10 @@ int main() {
 
             // Audio: two rising beeps (feels like a confirmation chime)
 //            Beep(880,  120);
-            Beep(1200, 900);
+            Beep(300, 300);
 
             // Hold the green screen long enough for staff to see it
-            Sleep(50);
+            Sleep(100);
 
         } else {
 
